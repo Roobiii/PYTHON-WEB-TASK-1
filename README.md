@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/Roobiii/number-guessing-game.git
 cd number-guessing-game
 Run the Game:
 
